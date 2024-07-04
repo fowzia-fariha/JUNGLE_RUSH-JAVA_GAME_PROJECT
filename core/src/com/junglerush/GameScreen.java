@@ -20,7 +20,7 @@ public class GameScreen implements Screen {
     public GameScreen(final JungleRush game)
     {
         this.game = game;
-        tRoad = new Texture("Background/Road.jpeg");
+        tRoad = new Texture("Road.jpeg");
 
         roadRect = new Array<>();
         roadRect.add(new Rectangle(12*this.ELEMENT_WIDTH,0,12*this.ELEMENT_WIDTH,game.SCREEN_HEIGHT));
