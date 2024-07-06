@@ -53,7 +53,7 @@ public class GameScreen implements Screen {
     private void loadAnimals() {
         animalsCrab = new Array<>();
         for(int i=1;i<=3;i++)
-            animalsCrab.add(new Texture("Enemy/Living/Crab_shadow"+i+".png"));
+            animalsCrab.add(new Texture("Enemy/Living/Animal"+i+".png"));
     }
 
 
