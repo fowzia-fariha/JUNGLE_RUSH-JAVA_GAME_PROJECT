@@ -3,9 +3,10 @@ package com.junglerush;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
 import com.badlogic.gdx.Screen;
+import com.badlogic.gdx.audio.Music;
 import com.badlogic.gdx.graphics.Color;
-import com.badlogic.gdx.utils.ScreenUtils;
 import com.badlogic.gdx.graphics.Texture;
+import com.badlogic.gdx.utils.ScreenUtils;
 
 public class MainMenuScreen implements Screen {
 
@@ -17,6 +18,7 @@ public class MainMenuScreen implements Screen {
     private final Texture lioImage;
     private final Texture deerImage;
     private final Score mainMenuText;
+    private final Music bgMusic;
 
     public MainMenuScreen(JungleRush game) {
         this.game = game;
@@ -27,6 +29,15 @@ public class MainMenuScreen implements Screen {
         this.lioImage = new Texture(Gdx.files.internal("Background/lionf.png"));
         this.deerImage = new Texture(Gdx.files.internal("Background/deer.png"));
         this.mainMenuText = new Score("Fonts/robotoMonoRegular.ttf", 32, 1);
+        this.bgMusic = Gdx.audio.newMusic(Gdx.files.internal("assets/Music/MainMenu.mp3"));
+    }
+
+    @Override
+    public void show() {
+
+        bgMusic.setLooping(true);
+        bgMusic.setVolume(0.5f);
+        bgMusic.play();
     }
 
     @Override
@@ -73,10 +84,6 @@ public class MainMenuScreen implements Screen {
     }
 
     @Override
-    public void show() {
-    }
-
-    @Override
     public void resize(int w, int h) {
     }
 
@@ -90,6 +97,7 @@ public class MainMenuScreen implements Screen {
 
     @Override
     public void hide() {
+        bgMusic.stop();
     }
 
     @Override
@@ -100,5 +108,6 @@ public class MainMenuScreen implements Screen {
         tigImage.dispose();
         lioImage.dispose();
         deerImage.dispose();
+        bgMusic.dispose();
     }
 }
