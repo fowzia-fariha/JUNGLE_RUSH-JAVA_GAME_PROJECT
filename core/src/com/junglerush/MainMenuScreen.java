@@ -1,12 +1,14 @@
 package com.junglerush;
 
+import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
 import com.badlogic.gdx.Screen;
-import com.badlogic.gdx.audio.Music;
 import com.badlogic.gdx.graphics.Color;
-import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.utils.ScreenUtils;
+import com.badlogic.gdx.graphics.Texture;
+
+import javax.swing.*;
 
 public class MainMenuScreen implements Screen {
 
@@ -18,7 +20,7 @@ public class MainMenuScreen implements Screen {
     private final Texture lioImage;
     private final Texture deerImage;
     private final Score mainMenuText;
-    private final Music bgMusic;
+
 
     public MainMenuScreen(JungleRush game) {
         this.game = game;
@@ -29,15 +31,6 @@ public class MainMenuScreen implements Screen {
         this.lioImage = new Texture(Gdx.files.internal("Background/lionf.png"));
         this.deerImage = new Texture(Gdx.files.internal("Background/deer.png"));
         this.mainMenuText = new Score("Fonts/robotoMonoRegular.ttf", 32, 1);
-        this.bgMusic = Gdx.audio.newMusic(Gdx.files.internal("assets/Music/MainMenu.mp3"));
-    }
-
-    @Override
-    public void show() {
-
-        bgMusic.setLooping(true);
-        bgMusic.setVolume(0.5f);
-        bgMusic.play();
     }
 
     @Override
@@ -78,9 +71,43 @@ public class MainMenuScreen implements Screen {
 
         // Check for touch or space key press
         if (Gdx.input.justTouched() || Gdx.input.isKeyJustPressed(Input.Keys.SPACE)) {
+            UserNamePrompt();
             game.setScreen(new GameScreen(game));
             dispose();
         }
+    }
+
+    private void UserNamePrompt() {
+        while (JungleRush.playerName == null) {
+            JungleRush.playerName = JOptionPane.showInputDialog(null, "Enter Your Name (Max 15 Characters): ", "Input Dialog", JOptionPane.QUESTION_MESSAGE);
+
+            if(JungleRush.playerName != null && (JungleRush.playerName.isEmpty() || JungleRush.playerName.length() > 15))
+                JungleRush.playerName = null;
+
+            for (int i = 0; JungleRush.playerName !=null && i < JungleRush.playerName.length(); i++) {
+                int ok = 0;
+                if(i!=0)
+                {
+                    if(JungleRush.playerName.charAt(i)==' ') ok |= 1;
+                }
+                if(Character.toUpperCase(JungleRush.playerName.charAt(i)) >= 'A' && Character.toUpperCase(JungleRush.playerName.charAt(i)) <= 'Z')
+                    ok|=1;
+
+                if(ok != 1)
+                {
+                    JungleRush.playerName = null;
+                    break;
+                }
+            }
+
+            if(JungleRush.playerName == null)
+                JOptionPane.showMessageDialog(null, "UserName Cannot Contain Anything Besides A-Z and SPACE!\nUsername Cannot Contain More Than 15 Characters!", "WARNING!", JOptionPane.WARNING_MESSAGE);
+
+        }
+    }
+
+    @Override
+    public void show() {
     }
 
     @Override
@@ -97,7 +124,6 @@ public class MainMenuScreen implements Screen {
 
     @Override
     public void hide() {
-        bgMusic.stop();
     }
 
     @Override
@@ -108,6 +134,5 @@ public class MainMenuScreen implements Screen {
         tigImage.dispose();
         lioImage.dispose();
         deerImage.dispose();
-        bgMusic.dispose();
     }
 }
