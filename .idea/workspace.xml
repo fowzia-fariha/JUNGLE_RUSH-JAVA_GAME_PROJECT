@@ -5,223 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e30891e6-b5fb-4cd2-8965-7a415601f871" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Background/River.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Background/Road.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Background/bgImage1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Background/deer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Background/fin3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Background/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Background/lion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Background/lionf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Background/logoImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Background/logoImage1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Background/mainCar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Background/tigf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Background/water.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/Living/animal9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/NonLiving/enemyCar1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/NonLiving/enemyCar10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/NonLiving/enemyCar11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/NonLiving/enemyCar12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/NonLiving/enemyCar13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/NonLiving/enemyCar2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/NonLiving/enemyCar3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/NonLiving/enemyCar4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/NonLiving/enemyCar5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/NonLiving/enemyCar6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/NonLiving/enemyCar7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/NonLiving/enemyCar8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy/NonLiving/enemyCar9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Files/highestScores.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Fonts/robotoMonoBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Fonts/robotoMonoRegular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Music/gamePlayBG1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Music/gamePlayBG2.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/carSpeedUp.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/carStarting.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/carStarting1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/collisionWithGreenAnimal.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/dashingWithAnimal1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/dashingWithAnimal4.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/dashingWithCar1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/dashingWithCar3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/fallingInWater.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/forestBirdsChirpingSound.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/forestBirdsChirpingSound1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/gameCountDown.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/pauseGame.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/resumeGame.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Sounds/roadAmbience1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree101.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree102.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree103.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree104.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree105.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree106.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree107.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree108.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree109.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree110.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree111.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree112.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree113.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree115.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree116.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree117.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree118.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree119.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree122.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree123.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree37.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree43.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree46.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree47.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree49.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree51.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree52.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree54.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree55.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree56.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree58.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree59.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree61.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree62.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree63.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree65.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree66.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree67.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree68.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree69.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree71.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree73.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree74.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree75.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree77.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree78.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree79.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree80.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree81.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree82.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree83.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree84.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree85.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree86.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree87.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree88.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree89.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree90.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree91.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree92.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree93.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree94.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree95.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree97.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree98.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Trees/jungleTree99.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Files/highestScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Files/highestScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Music/MainMenu.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Music/gameOverMusic.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/junglerush/Background.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/junglerush/Collision.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/junglerush/Enemy.class" beforeDir="false" />
@@ -232,7 +19,6 @@
       <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/junglerush/MainMenuScreen.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/junglerush/NumberFormatter.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/junglerush/Particle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/junglerush/Platform.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/junglerush/Player.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/junglerush/PlayerData.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/junglerush/ProcessInput.class" beforeDir="false" />
@@ -243,24 +29,9 @@
       <change beforePath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/Background.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/Collision.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/Enemy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/GameOverScreen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/GameScreen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/Indicator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/JungleRush.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/MainMenuScreen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/NumberFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/Particle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/Platform.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/PlayerData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/ProcessInput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/Score.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/ScoreManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/Trees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/GameOverScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/junglerush/GameOverScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/JungleRush.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/junglerush/JungleRush.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/junglerush/ScoreManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/junglerush/ScoreManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/classes/java/main/com/junglerush/DesktopLauncher.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Background/River.bmp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Background/Road.jpeg" beforeDir="false" />
@@ -275,14 +46,7 @@
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Background/mainCar.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Background/tigf.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Background/water.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/Animal1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/Animal2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/Animal3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/Animal4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/Animal5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/Animal6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/Animal7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/Animal8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal10.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal11.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal12.png" beforeDir="false" />
@@ -293,9 +57,16 @@
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal17.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal18.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal20.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal21.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal8.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/Living/animal9.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/NonLiving/enemyCar1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Enemy/NonLiving/enemyCar10.png" beforeDir="false" />
@@ -454,13 +225,6 @@
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Trees/jungleTree98.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/Trees/jungleTree99.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desktop/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/src/com/junglerush/DesktopLauncher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -475,36 +239,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "darkEye-2021831014"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;darkEye-2021831014&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/fowzia-fariha/JUNGLE_RUSH-JAVA_GAME_PROJECT.git",
-    "accountId": "47baf2d5-35f6-45ee-bffe-e270f484fe96"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/fowzia-fariha/JUNGLE_RUSH-JAVA_GAME_PROJECT.git&quot;,
+    &quot;accountId&quot;: &quot;47baf2d5-35f6-45ee-bffe-e270f484fe96&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2lhqhv29gEM3bJgGQb8Om9eujge" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.JUNGLE_RUSH-JAVA_GAME_PROJECT:desktop [:desktop:DesktopLauncher.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ashrafulislam/Documents/ProjectWorks/update/JUNGLE_RUSH-JAVA_GAME_PROJECT/build.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.JUNGLE_RUSH-JAVA_GAME_PROJECT:desktop [:desktop:DesktopLauncher.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ashrafulislam/Documents/ProjectWorks/update/JUNGLE_RUSH-JAVA_GAME_PROJECT/build.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="DesktopLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.junglerush.DesktopLauncher" />
